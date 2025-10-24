@@ -1,5 +1,3 @@
-
-=======
 # 🧃 Coca-Cola Stock Analysis
 
 ## 📘 Project Overview
@@ -28,5 +26,6 @@ To explore and visualize Coca-Cola’s stock history, identify patterns, and sum
 
 ### 👨‍💻 Author
 Created by **Vanish Soni** for portfolio and learning purposes.
+
 
 
