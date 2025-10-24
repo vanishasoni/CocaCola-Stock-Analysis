@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CocaCola-Stock-Analysis
 This project performs an Exploratory Data Analysis (EDA) on Coca-Cola’s stock data to understand its trends, patterns, and insights over time.
 =======
@@ -28,20 +28,6 @@ To explore and visualize Coca-Cola’s stock history, identify patterns, and sum
 - 20 & 50-day Moving Averages
 - Correlation Heatmap
 
-### ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/CocaCola-Stock-Analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the notebook and run:
-   ```bash
-   jupyter notebook notebooks/CocaCola_Stock_Analysis.ipynb
-   ```
-
 ### 👨‍💻 Author
-Created by **Ansh Kumar** for portfolio and learning purposes.
->>>>>>> c08722a (Initial Coca-Cola Stock EDA Project)
+Created by **Vanish Soni** for portfolio and learning purposes.
+
