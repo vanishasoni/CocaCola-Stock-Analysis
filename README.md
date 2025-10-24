@@ -1,6 +1,4 @@
 
-# CocaCola-Stock-Analysis
-This project performs an Exploratory Data Analysis (EDA) on Coca-Cola’s stock data to understand its trends, patterns, and insights over time.
 =======
 # 🧃 Coca-Cola Stock Analysis
 
@@ -30,4 +28,5 @@ To explore and visualize Coca-Cola’s stock history, identify patterns, and sum
 
 ### 👨‍💻 Author
 Created by **Vanish Soni** for portfolio and learning purposes.
+
 
